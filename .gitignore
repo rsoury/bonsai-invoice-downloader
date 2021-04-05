@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+.env
+url-list.txt
+/output
+output
